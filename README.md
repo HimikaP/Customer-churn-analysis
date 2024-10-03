@@ -7,7 +7,7 @@ Power BI, Dashboarding, Data Analysis
 ### Key Insights from the Dashboard :
 1. **High churn among Older Age groups** :
    
-   The 51-60 agre group has a churn rate of 56.2%, indicating a higer risk of customer attrition in this demographic.
+   The 51-60 agre group has a churn rate of 56.2%, indicating a higher risk of customer attrition in this demographic.
 3. **Critical Impact of Credit Score on Churn** :
    
    Customers with a credit score below 400 have a 100% churn rate, showing a strong correlation between low credit scores and customer loss.
